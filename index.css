@@ -27,8 +27,6 @@ h2{
     animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-    animation-delay: 2s;
-
 
 }
 .b{
@@ -36,20 +34,20 @@ h2{
     animation: A 4s infinite 2s linear;
 }
 .o{
-    animation: Z 5s infinite 2s cubic-bezier(0.075, 0.82, 0.165, 1) ;
+    animation: Z 5s infinite  cubic-bezier(0.075, 0.82, 0.165, 1) ;
 }
 .l{
-    animation: H 5s infinite 2s cubic-bezier(0.075, 0.82, 0.165, 1) ;
+    animation: H 5s infinite  cubic-bezier(0.075, 0.82, 0.165, 1) ;
  
 }
 .l1{
     background-color: brown;
-    animation: R 5s infinite 2s cubic-bezier(0.075, 0.82, 0.165, 1) ;
+    animation: R 5s infinite  cubic-bezier(0.075, 0.82, 0.165, 1) ;
 
 }
 .l2{
     background-color: green;
-    animation: B 5s infinite 2s cubic-bezier(0.075, 0.82, 0.165, 1) ;
+    animation: B 5s infinite  cubic-bezier(0.075, 0.82, 0.165, 1) ;
 
 }
 
